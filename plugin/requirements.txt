@@ -24,7 +24,5 @@ sympy==1.12
 duckduckgo-search==5.3.0b4
 qrcode[pil]==7.4.2
 plotly==5.20.0
-pandas==2.2.1
-kaleido==0.2.1
 aioboto3==12.4.0
 aiofiles==23.2.1
